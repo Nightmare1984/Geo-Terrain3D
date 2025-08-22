@@ -3,9 +3,9 @@
 extends HBoxContainer
 
 
-const DirectoryWizard: Script = preload("res://addons/terrain_3d/menu/directory_setup.gd")
-const ChannelPacker: Script = preload("res://addons/terrain_3d/menu/channel_packer.gd")
-const LodBaker: Script = preload("res://addons/terrain_3d/menu/baker.gd")
+const DirectoryWizard: Script = preload("res://addons/geo_terrain_3d/menu/directory_setup.gd")
+const ChannelPacker: Script = preload("res://addons/geo_terrain_3d/menu/channel_packer.gd")
+const LodBaker: Script = preload("res://addons/geo_terrain_3d/menu/baker.gd")
 
 var plugin: EditorPlugin
 var menu_button: MenuButton = MenuButton.new()

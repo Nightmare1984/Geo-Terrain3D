@@ -3,7 +3,7 @@
 extends RefCounted
 
 
-const ToolSettings: Script = preload("res://addons/terrain_3d/src/tool_settings.gd")
+const ToolSettings: Script = preload("res://addons/geo_terrain_3d/src/tool_settings.gd")
 
 
 var tool_settings: ToolSettings

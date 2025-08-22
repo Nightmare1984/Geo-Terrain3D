@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://by3kr2nqbqr67"]
 
 [node name="DirectorySetup" type="ConfirmationDialog"]
-title = "Terrain3D Data Directory Setup"
+title = "Geo-Terrain3D Data Directory Setup"
 position = Vector2i(0, 36)
 size = Vector2i(750, 330)
 visible = true

@@ -23,9 +23,9 @@ enum SettingType {
 	TYPE_MAX,
 }
 
-const MultiPicker: Script = preload("res://addons/terrain_3d/src/multi_picker.gd")
+const MultiPicker: Script = preload("res://addons/geo_terrain_3d/src/multi_picker.gd")
 const DEFAULT_BRUSH: String = "circle0.exr"
-const BRUSH_PATH: String = "res://addons/terrain_3d/brushes"
+const BRUSH_PATH: String = "res://addons/geo_terrain_3d/brushes"
 const ES_TOOL_SETTINGS: String = "terrain3d/tool_settings/"
 
 # Add settings flags

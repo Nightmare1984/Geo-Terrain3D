@@ -4,11 +4,11 @@ extends Node
 
 
 # Includes
-const TerrainMenu: Script = preload("res://addons/terrain_3d/menu/terrain_menu.gd")
-const TerrainToolbar: Script = preload("res://addons/terrain_3d/src/toolbar.gd")
-const TerrainToolSettings: Script = preload("res://addons/terrain_3d/src/tool_settings.gd")
-const OperationBuilder: Script = preload("res://addons/terrain_3d/src/operation_builder.gd")
-const GradientOperationBuilder: Script = preload("res://addons/terrain_3d/src/gradient_operation_builder.gd")
+const TerrainMenu: Script = preload("res://addons/geo_terrain_3d/menu/terrain_menu.gd")
+const TerrainToolbar: Script = preload("res://addons/geo_terrain_3d/src/toolbar.gd")
+const TerrainToolSettings: Script = preload("res://addons/geo_terrain_3d/src/tool_settings.gd")
+const OperationBuilder: Script = preload("res://addons/geo_terrain_3d/src/operation_builder.gd")
+const GradientOperationBuilder: Script = preload("res://addons/geo_terrain_3d/src/gradient_operation_builder.gd")
 const COLOR_RAISE := Color.WHITE
 const COLOR_LOWER := Color.BLACK
 const COLOR_SMOOTH := Color(0.5, 0, .2)

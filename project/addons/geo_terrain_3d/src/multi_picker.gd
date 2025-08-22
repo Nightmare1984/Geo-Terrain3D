@@ -7,7 +7,7 @@ signal pressed
 signal value_changed
 
 
-const ICON_PICKER_CHECKED: String = "res://addons/terrain_3d/icons/picker_checked.svg"
+const ICON_PICKER_CHECKED: String = "res://addons/geo_terrain_3d/icons/picker_checked.svg"
 const MAX_POINTS: int = 2
 
 

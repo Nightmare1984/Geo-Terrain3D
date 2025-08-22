@@ -2,7 +2,7 @@
 # Directory Setup for Terrain3D
 extends Node
 
-const DIRECTORY_SETUP: String = "res://addons/terrain_3d/menu/directory_setup.tscn"
+const DIRECTORY_SETUP: String = "res://addons/geo_terrain_3d/menu/directory_setup.tscn"
 
 var plugin: EditorPlugin
 var dialog: ConfirmationDialog

@@ -5,7 +5,7 @@
 extends Node3D
 class_name Terrain3DObjects
 
-const TransformChangedNotifier: Script = preload("res://addons/terrain_3d/utils/transform_changed_notifier.gd")
+const TransformChangedNotifier: Script = preload("res://addons/geo_terrain_3d/utils/transform_changed_notifier.gd")
 
 const CHILD_HELPER_NAME: StringName = &"TransformChangedSignaller"
 const CHILD_HELPER_PATH: NodePath = ^"TransformChangedSignaller"

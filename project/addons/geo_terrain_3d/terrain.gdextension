@@ -1,11 +1,11 @@
 [configuration]
 
 entry_symbol = "geo_terrain_3d_init"
-compatibility_minimum = 4.4
+compatibility_minimum = 4.3
 
 [icons]
 
-Terrain3D = "res://addons/geo_terrain_3d/icons/terrain3d.svg"
+Geo-Terrain3D = "res://addons/geo_terrain_3d/icons/terrain3d.svg"
 
 [libraries]
 

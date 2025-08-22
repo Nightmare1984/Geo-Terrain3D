@@ -1,9 +1,9 @@
 # Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
 # Gradient Operation Builder for Terrain3D
-extends "res://addons/terrain_3d/src/operation_builder.gd"
+extends "res://addons/geo_terrain_3d/src/operation_builder.gd"
 
 
-const MultiPicker: Script = preload("res://addons/terrain_3d/src/multi_picker.gd")
+const MultiPicker: Script = preload("res://addons/geo_terrain_3d/src/multi_picker.gd")
 
 
 func _get_point_picker() -> MultiPicker:
