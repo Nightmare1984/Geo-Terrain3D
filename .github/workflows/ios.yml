@@ -13,7 +13,7 @@ jobs:
         arch: [universal]
 
     steps:
-      - name: Checkout Terrain3D
+      - name: Checkout Geo-Terrain3D
         uses: actions/checkout@v4
         with:
           submodules: recursive
@@ -29,7 +29,7 @@ jobs:
           cache-name: ${{ matrix.platform }}-${{ matrix.target }}
         continue-on-error: true
 
-      - name: Build Terrain3D
+      - name: Build Geo-Terrain3D
         env:
             SCONS_CACHE: "${{ github.workspace }}/.scons-cache/"
             TARGET: 'template_${{ matrix.target }}'
