@@ -5,7 +5,7 @@ compatibility_minimum = 4.4
 
 [icons]
 
-Terrain3D = "res://addons/terrain_3d/icons/terrain3d.svg"
+Terrain3D = "res://addons/geo_terrain_3d/icons/terrain3d.svg"
 
 [libraries]
 
