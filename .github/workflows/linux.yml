@@ -44,7 +44,7 @@ jobs:
           ls -l project/addons/geo_terrain_3d/bin/
           strip project/addons/geo_terrain_3d/bin/libterrain.*
           ls -l project/addons/geo_terrain_3d/bin/
-          cp '${{ github.workspace }}/README.md' '${{ github.workspace }}/LICENSE.txt' ${{ github.workspace }}/project/addons/terrain_3d/
+          cp '${{ github.workspace }}/README.md' '${{ github.workspace }}/LICENSE.txt' ${{ github.workspace }}/project/addons/geo_terrain_3d/
 
       - name: Upload Package
         uses: actions/upload-artifact@v4
