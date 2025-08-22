@@ -1,6 +1,6 @@
 [configuration]
 
-entry_symbol = "terrain_3d_init"
+entry_symbol = "geo_terrain_3d_init"
 compatibility_minimum = 4.4
 
 [icons]
