@@ -37,3 +37,5 @@ export_presets.cfg
 # Editors
 .vscode/
 .vs/
+/build/.cmake
+/build
