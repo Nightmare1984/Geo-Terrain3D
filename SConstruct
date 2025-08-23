@@ -4,7 +4,7 @@ from pathlib import Path
 import os
 
 # TODO: Do not copy environment after redot-cpp/test is updated <https://github.com/godotengine/redot-cpp/blob/master/test/SConstruct>.
-env = SConscript("redot-cpp/SConstruct")
+env = SConscript("godot-cpp/SConstruct")
 
 # Add source files.
 env.Append(CPPPATH=["src/"])
