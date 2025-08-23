@@ -5,7 +5,7 @@
 #include <godot_cpp/classes/time.hpp>
 #include <godot_cpp/classes/world3d.hpp>
 
-#include <redot-cpp/gen/include/godot_cpp/classes/scene_tree.hpp>
+#include <godot_cpp/classes/scene_tree.hpp>
 
 #include "constants.h"
 #include "logger.h"
