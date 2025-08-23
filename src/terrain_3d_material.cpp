@@ -1,14 +1,14 @@
 // Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
 
-#include <godot_cpp/classes/engine.hpp>
-#include <godot_cpp/classes/fast_noise_lite.hpp>
-#include <godot_cpp/classes/gradient.hpp>
-#include <godot_cpp/classes/image_texture.hpp>
-#include <godot_cpp/classes/noise_texture2d.hpp>
-#include <godot_cpp/classes/reg_ex.hpp>
-#include <godot_cpp/classes/reg_ex_match.hpp>
-#include <godot_cpp/classes/rendering_server.hpp>
-#include <godot_cpp/classes/resource_saver.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/engine.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/fast_noise_lite.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/gradient.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/image_texture.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/noise_texture2d.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/reg_ex.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/reg_ex_match.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/rendering_server.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/resource_saver.hpp>
 
 #include "logger.h"
 #include "terrain_3d_material.h"

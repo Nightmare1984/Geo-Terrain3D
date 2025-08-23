@@ -3,7 +3,7 @@
 #ifndef TERRAIN3D_REGISTER_TYPES_H
 #define TERRAIN3D_REGISTER_TYPES_H
 
-#include <godot_cpp/godot.hpp>
+#include <redot-cpp/include/godot_cpp/godot.hpp>
 
 using namespace godot;
 

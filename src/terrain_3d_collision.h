@@ -3,9 +3,9 @@
 #ifndef TERRAIN3D_COLLISION_CLASS_H
 #define TERRAIN3D_COLLISION_CLASS_H
 
-#include <godot_cpp/classes/collision_shape3d.hpp>
-#include <godot_cpp/classes/physics_material.hpp>
-#include <godot_cpp/classes/static_body3d.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/collision_shape3d.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/physics_material.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/static_body3d.hpp>
 #include <vector>
 
 #include "constants.h"

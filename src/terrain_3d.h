@@ -3,14 +3,14 @@
 #ifndef TERRAIN3D_CLASS_H
 #define TERRAIN3D_CLASS_H
 
-#include <godot_cpp/classes/camera3d.hpp>
-#include <godot_cpp/classes/editor_plugin.hpp>
-#include <godot_cpp/classes/geometry_instance3d.hpp>
-#include <godot_cpp/classes/mesh.hpp>
-#include <godot_cpp/classes/mesh_instance3d.hpp>
-#include <godot_cpp/classes/rendering_server.hpp>
-#include <godot_cpp/classes/static_body3d.hpp>
-#include <godot_cpp/classes/sub_viewport.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/camera3d.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/editor_plugin.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/geometry_instance3d.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/mesh.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/mesh_instance3d.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/rendering_server.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/static_body3d.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/sub_viewport.hpp>
 
 #include "constants.h"
 #include "target_node_3d.h"

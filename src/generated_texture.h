@@ -3,7 +3,7 @@
 #ifndef GENERATEDTEXTURE_CLASS_H
 #define GENERATEDTEXTURE_CLASS_H
 
-#include <godot_cpp/classes/image.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/image.hpp>
 
 #include "constants.h"
 

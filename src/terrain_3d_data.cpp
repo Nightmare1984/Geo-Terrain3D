@@ -1,11 +1,11 @@
 // Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
 
-#include <godot_cpp/classes/dir_access.hpp>
-#include <godot_cpp/classes/editor_file_system.hpp>
-#include <godot_cpp/classes/editor_interface.hpp>
-#include <godot_cpp/classes/engine.hpp>
-#include <godot_cpp/classes/file_access.hpp>
-#include <godot_cpp/classes/resource_saver.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/dir_access.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/editor_file_system.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/editor_interface.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/engine.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/file_access.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/resource_saver.hpp>
 
 #include "logger.h"
 #include "terrain_3d_data.h"

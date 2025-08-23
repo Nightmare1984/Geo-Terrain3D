@@ -3,7 +3,7 @@
 #ifndef TERRAIN3D_TEXTURE_CLASS_H
 #define TERRAIN3D_TEXTURE_CLASS_H
 
-#include <godot_cpp/classes/texture2d.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/texture2d.hpp>
 
 #include "constants.h"
 #include "terrain_3d_asset_resource.h"

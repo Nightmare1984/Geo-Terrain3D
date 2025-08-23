@@ -1,10 +1,10 @@
 // Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
 
-#include <godot_cpp/classes/engine.hpp>
-#include <godot_cpp/classes/environment.hpp>
-#include <godot_cpp/classes/image_texture.hpp>
-#include <godot_cpp/classes/rendering_server.hpp>
-#include <godot_cpp/classes/resource_saver.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/engine.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/environment.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/image_texture.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/rendering_server.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/resource_saver.hpp>
 
 #include "logger.h"
 #include "terrain_3d_assets.h"

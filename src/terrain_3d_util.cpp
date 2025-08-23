@@ -1,9 +1,9 @@
 // Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
 
-#include <godot_cpp/classes/dir_access.hpp>
-#include <godot_cpp/classes/engine.hpp>
-#include <godot_cpp/classes/file_access.hpp>
-#include <godot_cpp/classes/time.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/dir_access.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/engine.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/file_access.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/time.hpp>
 
 #include "logger.h"
 #include "terrain_3d_util.h"

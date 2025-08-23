@@ -1,6 +1,6 @@
 // Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
 
-#include <godot_cpp/classes/rendering_server.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/rendering_server.hpp>
 
 #include "generated_texture.h"
 #include "logger.h"

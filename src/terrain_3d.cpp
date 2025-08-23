@@ -1,23 +1,23 @@
 // Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
 
-#include <godot_cpp/classes/compositor.hpp>
-#include <godot_cpp/classes/editor_interface.hpp>
-#include <godot_cpp/classes/engine.hpp>
-#include <godot_cpp/classes/environment.hpp>
-#include <godot_cpp/classes/height_map_shape3d.hpp>
-#include <godot_cpp/classes/label3d.hpp>
-#include <godot_cpp/classes/os.hpp>
-#include <godot_cpp/classes/physics_direct_space_state3d.hpp>
-#include <godot_cpp/classes/physics_ray_query_parameters3d.hpp>
-#include <godot_cpp/classes/project_settings.hpp>
-#include <godot_cpp/classes/quad_mesh.hpp>
-#include <godot_cpp/classes/rendering_server.hpp>
-#include <godot_cpp/classes/shader_material.hpp>
-#include <godot_cpp/classes/surface_tool.hpp>
-#include <godot_cpp/classes/time.hpp>
-#include <godot_cpp/classes/viewport.hpp>
-#include <godot_cpp/classes/viewport_texture.hpp>
-#include <godot_cpp/classes/world3d.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/compositor.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/editor_interface.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/engine.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/environment.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/height_map_shape3d.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/label3d.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/os.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/physics_direct_space_state3d.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/physics_ray_query_parameters3d.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/project_settings.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/quad_mesh.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/rendering_server.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/shader_material.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/surface_tool.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/time.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/viewport.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/viewport_texture.hpp>
+#include <redot-cpp/gen/include/godot_cpp/classes/world3d.hpp>
 
 #include "logger.h"
 #include "terrain_3d.h"
