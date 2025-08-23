@@ -32,7 +32,7 @@ Please see the [featured games using Terrain3D](https://terrain3d.readthedocs.io
 
 
 ## Credit
-Credit Goes To The Dev's That Worked hard On The Code For Terrain3D That This Is Based On 
+Credit Goes To The Dev's That Worked hard On The Code For Terrain3D That This Fork Is Based On 
 
 |||
 |--|--|
