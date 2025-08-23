@@ -7,7 +7,7 @@
 
 using namespace godot;
 
-void initialize_terrain_3d(ModuleInitializationLevel p_level);
-void uninitialize_terrain_3d(ModuleInitializationLevel p_level);
+void initialize_geo_terrain_3d(ModuleInitializationLevel p_level);
+void uninitialize_geo_terrain_3d(ModuleInitializationLevel p_level);
 
 #endif // TERRAIN3D_REGISTER_TYPES_H
