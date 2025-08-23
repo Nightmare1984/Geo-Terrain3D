@@ -1,6 +1,6 @@
 // Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
 
-#include <redot-cpp/gen/include/godot_cpp/classes/image.hpp>
+#include <godot_cpp/classes/image.hpp>
 
 #include "logger.h"
 #include "terrain_3d.h"

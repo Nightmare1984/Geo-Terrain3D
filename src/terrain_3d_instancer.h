@@ -3,8 +3,8 @@
 #ifndef TERRAIN3D_INSTANCER_CLASS_H
 #define TERRAIN3D_INSTANCER_CLASS_H
 
-#include <redot-cpp/gen/include/godot_cpp/classes/multi_mesh.hpp>
-#include <redot-cpp/gen/include/godot_cpp/classes/multi_mesh_instance3d.hpp>
+#include <godot_cpp/classes/multi_mesh.hpp>
+#include <godot_cpp/classes/multi_mesh_instance3d.hpp>
 #include <unordered_map>
 
 #include "constants.h"

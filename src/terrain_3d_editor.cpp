@@ -1,8 +1,8 @@
 // Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
 
 #include <redot-cpp/gen/include/godot_cpp/classes/editor_undo_redo_manager.hpp>
-#include <redot-cpp/gen/include/godot_cpp/classes/engine.hpp>
-#include <redot-cpp/gen/include/godot_cpp/classes/time.hpp>
+#include <godot_cpp/classes/engine.hpp>
+#include <godot_cpp/classes/time.hpp>
 
 #include "constants.h"
 #include "logger.h"

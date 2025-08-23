@@ -3,12 +3,12 @@
 #ifndef TERRAIN3D_MESH_ASSET_CLASS_H
 #define TERRAIN3D_MESH_ASSET_CLASS_H
 
-#include <redot-cpp/gen/include/godot_cpp/classes/array_mesh.hpp>
-#include <redot-cpp/gen/include/godot_cpp/classes/geometry_instance3d.hpp>
-#include <redot-cpp/gen/include/godot_cpp/classes/material.hpp>
-#include <redot-cpp/gen/include/godot_cpp/classes/packed_scene.hpp>
-#include <redot-cpp/gen/include/godot_cpp/classes/resource.hpp>
-#include <redot-cpp/gen/include/godot_cpp/classes/texture2d.hpp>
+#include <godot_cpp/classes/array_mesh.hpp>
+#include <godot_cpp/classes/geometry_instance3d.hpp>
+#include <godot_cpp/classes/material.hpp>
+#include <godot_cpp/classes/packed_scene.hpp>
+#include <godot_cpp/classes/resource.hpp>
+#include <godot_cpp/classes/texture2d.hpp>
 
 #include "constants.h"
 #include "terrain_3d_asset_resource.h"

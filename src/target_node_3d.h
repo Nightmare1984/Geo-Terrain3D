@@ -3,7 +3,7 @@
 #ifndef TARGET_NODE3D_CLASS_H
 #define TARGET_NODE3D_CLASS_H
 
-#include <redot-cpp/gen/include/godot_cpp/classes/node3d.hpp>
+#include <godot_cpp/classes/node3d.hpp>
 
 using namespace godot;
 

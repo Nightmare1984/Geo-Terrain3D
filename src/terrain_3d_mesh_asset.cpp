@@ -1,13 +1,13 @@
 // Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
 
-#include <redot-cpp/gen/include/godot_cpp/classes/editor_interface.hpp>
-#include <redot-cpp/gen/include/godot_cpp/classes/editor_paths.hpp>
-#include <redot-cpp/gen/include/godot_cpp/classes/file_access.hpp>
-#include <redot-cpp/gen/include/godot_cpp/classes/image_texture.hpp>
-#include <redot-cpp/gen/include/godot_cpp/classes/material.hpp>
-#include <redot-cpp/gen/include/godot_cpp/classes/project_settings.hpp>
-#include <redot-cpp/gen/include/godot_cpp/classes/quad_mesh.hpp>
-#include <redot-cpp/gen/include/godot_cpp/classes/standard_material3d.hpp>
+#include <godot_cpp/classes/editor_interface.hpp>
+#include <godot_cpp/classes/editor_paths.hpp>
+#include <godot_cpp/classes/file_access.hpp>
+#include <godot_cpp/classes/image_texture.hpp>
+#include <godot_cpp/classes/material.hpp>
+#include <godot_cpp/classes/project_settings.hpp>
+#include <godot_cpp/classes/quad_mesh.hpp>
+#include <godot_cpp/classes/standard_material3d.hpp>
 
 #include "logger.h"
 #include "terrain_3d_instancer.h"

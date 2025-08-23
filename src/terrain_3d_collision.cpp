@@ -1,9 +1,9 @@
 // Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
 
-#include <redot-cpp/gen/include/godot_cpp/classes/engine.hpp>
-#include <redot-cpp/gen/include/godot_cpp/classes/height_map_shape3d.hpp>
-#include <redot-cpp/gen/include/godot_cpp/classes/time.hpp>
-#include <redot-cpp/gen/include/godot_cpp/classes/world3d.hpp>
+#include <godot_cpp/classes/engine.hpp>
+#include <godot_cpp/classes/height_map_shape3d.hpp>
+#include <godot_cpp/classes/time.hpp>
+#include <godot_cpp/classes/world3d.hpp>
 
 #include <redot-cpp/gen/include/godot_cpp/classes/scene_tree.hpp>
 

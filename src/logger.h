@@ -3,7 +3,7 @@
 #ifndef LOGGER_CLASS_H
 #define LOGGER_CLASS_H
 
-#include <redot-cpp/gen/include/godot_cpp/variant/utility_functions.hpp>
+#include <godot_cpp/variant/utility_functions.hpp>
 
 #include "terrain_3d.h"
 

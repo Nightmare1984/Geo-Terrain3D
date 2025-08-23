@@ -1,8 +1,8 @@
 // Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
 
-#include <redot-cpp/gen/include/godot_cpp/classes/rendering_server.hpp>
-#include <redot-cpp/gen/include/godot_cpp/classes/world3d.hpp>
-#include <redot-cpp/gen/include/godot_cpp/core/version.hpp>
+#include <godot_cpp/classes/rendering_server.hpp>
+#include <godot_cpp/classes/world3d.hpp>
+#include <godot_cpp/core/version.hpp>
 
 #include "logger.h"
 #include "terrain_3d.h"

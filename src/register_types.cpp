@@ -1,7 +1,7 @@
 // Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
 
 #include <gdextension_interface.h>
-#include <redot-cpp/include/godot_cpp/core/class_db.hpp>
+#include <godot_cpp/core/class_db.hpp>
 
 #include "register_types.h"
 #include "terrain_3d.h"

@@ -3,9 +3,9 @@
 #ifndef TERRAIN3D_UTIL_CLASS_H
 #define TERRAIN3D_UTIL_CLASS_H
 
-#include <redot-cpp/gen/include/godot_cpp/classes/image.hpp>
-#include <redot-cpp/gen/include/godot_cpp/classes/resource_loader.hpp>
-#include <redot-cpp/gen/include/godot_cpp/variant/utility_functions.hpp>
+#include <godot_cpp/classes/image.hpp>
+#include <godot_cpp/classes/resource_loader.hpp>
+#include <godot_cpp/variant/utility_functions.hpp>
 
 #include "constants.h"
 #include "generated_texture.h"

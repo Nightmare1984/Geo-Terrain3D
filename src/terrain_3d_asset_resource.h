@@ -3,7 +3,7 @@
 #ifndef TERRAIN3D_ASSET_RESOURCE_CLASS_H
 #define TERRAIN3D_ASSET_RESOURCE_CLASS_H
 
-#include <redot-cpp/gen/include/godot_cpp/classes/resource.hpp>
+#include <godot_cpp/classes/resource.hpp>
 
 #include "constants.h"
 
