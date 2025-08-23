@@ -69,7 +69,22 @@ vec3 get_decal(vec3 albedo, vec2 uv) {
 			decal += get_reticle(uv, i);
 		}
 		// Blend in decal; square for better visual blend
+<<<<<<< HEAD
         albedo = mix(albedo, _editor_decal_color[i].rgb, decal * decal * _editor_decal_color[i].a);
+=======
+		albedo =  mix(albedo, _editor_decal_color[i].rgb, decal * decal * _editor_decal_color[i].a);
+	}
+	// Crosshair
+	if (_editor_decal_visible[0] && _editor_decal_size[0] <= _editor_crosshair_threshold) {
+		vec2 cross_uv = ((uv - _editor_decal_position[0] * _vertex_density) * _vertex_spacing) * 16.0;
+		cross_uv /= sqrt(length(_target_pos - v_vertex));
+		float line_thickness = 0.5;
+		float line_start = _editor_decal_size[0] * 0.5 + 8.;
+		float line_end = _editor_decal_size[0] * 0.5 + 16.;
+		bool h = abs(cross_uv.y) < line_thickness && abs(cross_uv.x) < line_end && abs(cross_uv.x) > line_start;
+		bool v = abs(cross_uv.x) < line_thickness && abs(cross_uv.y) < line_end && abs(cross_uv.y) > line_start;
+		albedo = (h || v) ? mix(albedo, _editor_decal_color[0].rgb, _editor_decal_color[0].a) : albedo;
+>>>>>>> pr/747
 	}
 	return albedo;
 }
