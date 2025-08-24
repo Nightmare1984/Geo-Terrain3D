@@ -38,3 +38,4 @@ export_presets.cfg
 .vscode/
 .vs/
 /build
+project/addons/geo_terrain_3d/bin/libterrain.linux.debug.x86_64.so
