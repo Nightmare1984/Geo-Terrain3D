@@ -1,6 +1,6 @@
 ![Geo-Terrain3D Logo](/doc/docs/images/terrain3d.jpg)
 
-# Terrain3D
+# Geo-Terrain3D
 A high performance, editable terrain system for Redot
 
 
@@ -13,12 +13,6 @@ A high performance, editable terrain system for Redot
 * Foliage instancing, with up to 10 levels of detail, and a shadow impostor
 * Sculpting, holes, texture painting, texture detiling, painting colors and wetness
 * Imports heightmaps from [HTerrain](https://github.com/Zylann/godot_heightmap_plugin/), Gaea, World Creator, World Machine, Unity, Unreal and any tool that can export a heightmap. See [heightmaps](https://terrain3d.readthedocs.io/en/stable/docs/heightmaps.html)
-
-
-## Games Using Terrain3D
-
-Please see the [featured games using Terrain3D](https://terrain3d.readthedocs.io/en/latest/docs/games.html) for examples of what it can do.
-
 
 ## Getting Started
 
